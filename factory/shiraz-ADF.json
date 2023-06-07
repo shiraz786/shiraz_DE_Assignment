@@ -1,0 +1,9 @@
+{
+	"name": "shiraz-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d64045a8-83f1-445e-b5fe-42d9cabd28b4",
+		"tenantId": "edf442f5-b994-4c86-a131-b42b03a16c95"
+	}
+}
